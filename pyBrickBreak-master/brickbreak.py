@@ -1,4 +1,6 @@
 #!/usr/bin/python2
+#Guðmundur Natan Harðason
+#Dagsetning 3.11.2019
 import os, platform
 import pygame, sys
 from pygame.locals import *
